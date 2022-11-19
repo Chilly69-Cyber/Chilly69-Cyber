@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chilly69-Cyber
 - 👀 I’m interested in using all opportunities to grow.
-- 🌱 I’m currently learning ALX Software Engineering course.
-- 💞️ I’m looking to collaborate on projects from the ALX SE course
-- 📫 How to reach me: ->Telegram: @AstralChad
+- 🌱 I’m currently learning ALX Software Engineering.
+- 💞️ I’m looking to collaborate on projects from the ALX SE course.
+- 📫 How to reach me: ->Telegram: @LordChadus69420
                        ->Twitter: @Jack80891458
 
 <!---
